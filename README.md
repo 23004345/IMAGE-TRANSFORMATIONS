@@ -33,8 +33,8 @@ Save or display the final transformed images for analysis and use plt.show() to 
 
 ## Program:
 ```python
-Developed By: MOONESH P
-Register Number: 212223230126
+Developed By: devesh s
+Register Number: 212223230041
 ```
 ```
 #import the libraries
